@@ -1,0 +1,6 @@
+pandas
+mistralai
+python-dotenv
+streamlit
+matplotlib
+seaborn
